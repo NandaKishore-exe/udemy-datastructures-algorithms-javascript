@@ -17,5 +17,3 @@ function fizzBuzzArray(num) {
 }
 
 console.log(fizzBuzzArray(5)); // [1, 2, "Fizz", 4, "Buzz"]
-
-console.log(fizzBuzzArray(15)); //
